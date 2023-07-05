@@ -1,4 +1,4 @@
-# EDA_insurance
+# EDA_DS_Salaries
 Cleaning and analyzing data with concepts of exploratory data analysis
 
 A project dedicated to data cleaning, as well as the formulation and testing of statistical hypotheses in the context of EDA.
@@ -11,4 +11,4 @@ Basically, this is a small demonstration of the possibilities of applying statis
 
 The work is also presented in two languages.
 
-
+Due to the fact that graphs built using plotly are not displayed on the github, they have all been added as html pages for the convenience of those who view this project
