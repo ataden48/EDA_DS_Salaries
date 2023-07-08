@@ -11,4 +11,4 @@ Basically, this is a small demonstration of the possibilities of applying statis
 
 The work is also presented in two languages.
 
-Due to the fact that graphs built using plotly are not displayed on the github, they have all been added as html pages for the convenience of those who view this project
+Due to the fact that graphs built using plotly are not displayed on the github, they have all been added as html pages for the convenience of those who view this project.
